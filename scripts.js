@@ -1,0 +1,3 @@
+let quotes = ["the people who are crazy enough to think they can change the world are the ones who do.", "our greatest weakness lies in giving up. the most certain way to succeed is always to try just one more time.", "you are never too old to set another goal or to dream a new dream.", "if you can dream it, you can do it.", "i know where i'm going and i know the truth, and i don't have to be what you want me to be. i'm free to be what i want."];
+
+console.log(quotes[Math.floor(Math.random() * quotes.length)])
